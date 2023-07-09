@@ -20,6 +20,8 @@
 
 ## Introduction
 
+![My Image](my_image.jpg)
+
 The PDF Chat App is a user-friendly web application that facilitates the upload of PDF files and enables users to engage in a chat-like interaction with their uploaded documents. By utilizing Langchain and Streamlit, this app offers a seamless experience for users to interact with their PDF content in a conversational manner.
 
 The core functionality of the app relies on the OpenAI API, which processes the content of the PDF files to enable intelligent interactions. Additionally, the application leverages FAISS, a library for efficient similarity search, to create a vector database for the uploaded PDF files, allowing users to perform quick searches and retrieve similar documents.
