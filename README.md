@@ -72,7 +72,7 @@ The following technologies were used in the development of this project:
 
 - ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python): The primary programming language for building the application.
 - ![Streamlit](https://img.shields.io/badge/Tool-Streamlit-orange?logo=streamlit): The framework used for creating the web interface.
-- ![Langchain](https://img.shields.io/badge/Tool-Langchain-yellow?logo=langchain): A library used to enable conversational interactions with PDF content.
+- ![Langchain](https://img.shields.io/badge/Tool-Langchain-yellow?logo=langchain): LangChain is a framework for developing applications powered by language models.
 - ![FAISS](https://img.shields.io/badge/Tool-FAISS-red?logo=faiss): A library for efficient similarity search, utilized for creating a vector database for the PDF files.
 - ![OpenAI](https://img.shields.io/badge/Tool-OpenAI-lightblue?logo=openai): The OpenAI API is employed to process the PDF content and enable intelligent interactions.
 
