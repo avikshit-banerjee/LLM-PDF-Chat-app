@@ -20,7 +20,7 @@
 
 ## Introduction
 
-![My Image](my_image.jpg)
+![My Image](my_image.png)
 
 The PDF Chat App is a user-friendly web application that facilitates the upload of PDF files and enables users to engage in a chat-like interaction with their uploaded documents. By utilizing Langchain and Streamlit, this app offers a seamless experience for users to interact with their PDF content in a conversational manner.
 
