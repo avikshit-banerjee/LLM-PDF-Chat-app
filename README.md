@@ -37,7 +37,7 @@ The core functionality of the app relies on the OpenAI API, which processes the 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/pdf-chat-app.git
+   git clone https://github.com/avikshit-banerjee/LLM-PDF-Chat-app.git
    ```
 
 2. Change to the project directory:
