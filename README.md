@@ -1,4 +1,4 @@
-# PDF Chat App
+# PDF LLM-Chat App (Langchain & FAISS)
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Tool-Streamlit-orange?logo=streamlit)
